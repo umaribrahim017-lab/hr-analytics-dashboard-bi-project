@@ -1,0 +1,24 @@
+Capstone Project Report
+Project Title: Human Resources Analytics Dashboard for
+Workforce Performance and Retention
+Aims and Objectives
+The aim of this project is to design and develop an interactive HR analytics dashboard that provides
+insights into employee performance, attrition, and workforce trends to support strategic HR
+decision-making.
+• Collect and clean HR data related to employee demographics, performance, and turnover.
+• Design a structured data model suitable for workforce analytics.
+• Develop interactive dashboards displaying KPIs such as attrition rate, employee satisfaction,
+and performance ratings.
+• Analyze trends related to employee retention and workforce productivity.
+• Provide actionable insights to support data-driven HR decisions.
+Why the Topic
+Workforce management is a critical component of organizational success. Many organizations
+struggle with employee turnover and performance monitoring due to fragmented data systems. This
+project applies Business Intelligence techniques to transform raw HR data into meaningful insights
+through visualization and dashboards.
+Problem Solved
+Organizations often manage HR data across multiple spreadsheets and systems, making analysis
+time-consuming and inefficient. Decision-makers lack real-time insights into attrition trends,
+workforce distribution, and performance metrics. This project consolidates HR data into a
+centralized interactive dashboard, providing real-time KPIs and visual insights that improve
+transparency, efficiency, and strategic workforce planning
